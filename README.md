@@ -1,0 +1,2 @@
+
+#### Exercitii basic in Python
